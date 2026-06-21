@@ -218,7 +218,7 @@ img { max-width: 100%; display: block; }
 }
 
 .logo img {
-  height: 46px;
+  height: 60px;
   width: auto;
   display: block;
 }
@@ -1375,17 +1375,17 @@ img { max-width: 100%; display: block; }
 @media (max-width: 480px) {
   .container { padding: 0 20px; }
 
-  .nav-inner { height: 60px; }
+  .nav-inner { height: 68px; }
   .logo-text { font-size: 18px; }
   .logo-text small { font-size: 11px; }
   .logo-icon { font-size: 18px; }
-  .logo img { height: 38px; }
+  .logo img { height: 50px; }
   .nav-actions { gap: 4px; }
   .btn-whatsapp-nav { font-size: 10px; padding: 6px 8px; gap: 4px; }
   .btn-whatsapp-nav i { font-size: 14px; }
   .btn-whatsapp-nav span.nav-whatsapp-text { display: none; }
   .hamburger { padding: 4px; }
-  .nav-links { top: 60px; }
+  .nav-links { top: 68px; }
 
   .hero { min-height: 85vh; padding-top: 40px; }
   .hero-content { padding: 20px 0; }
